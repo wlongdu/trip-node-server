@@ -1,4 +1,4 @@
-# JD Site Demo
+# Trip Site Demo
 
 ## hosts 
 
